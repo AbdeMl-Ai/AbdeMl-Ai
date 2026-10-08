@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing a **Master's Degree in Machine Learning & Artificial Intelligence** at UAE, Tétouan.
+- 🎓 Pursuing a **Master's Degree in Machine Learning & Artificial Intelligence** at University Abelmallek Essaadi, Tétouan.
 - 🔭 I’m currently working on **Fine-tuning LLMs** for Moroccan Darija (XDarija) & Building Full-stack AI apps.
 - 💼 Previously worked as an **AI Product Engineer** fine-tuning LLMs using Hugging Face & PEFT.
 - 🌱 I’m currently exploring **MLOps, Data Engineering (Apache Spark), and Explainable AI (SHAP)**.
