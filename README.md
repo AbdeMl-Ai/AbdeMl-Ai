@@ -51,14 +51,27 @@ Deep Learning image classification system using ResNet, with an interactive web 
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdeMl-Ai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AbdeMl-Ai&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Abdennour's GitHub Stats"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdeMl-Ai&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AbdeMl-Ai&theme=tokyonight&hide_border=true"
+    alt="Abdennour's GitHub Streak"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeMl-Ai&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeMl-Ai&layout=compact&theme=tokyonight&hide=C&langs_count=10&hide_border=true"
+    alt="Abdennour's Top Languages"
+  />
 </p>
+
